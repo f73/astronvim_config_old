@@ -1,4 +1,4 @@
-# astronvim_config
+# astronvim_config_old (astronvim v3)
 
 1. Clone AstroNvim ([normal installation instructions](https://docs.astronvim.com/))
     - git clone --depth 1 https://github.com/AstroNvim/AstroNvim ~/.config/nvim
